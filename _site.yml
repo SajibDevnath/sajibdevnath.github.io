@@ -6,7 +6,6 @@ navbar:
       href: index.html
     - text: "About"
       href: visualisation.html
-      
 output:
   html_document:
     theme: paper
