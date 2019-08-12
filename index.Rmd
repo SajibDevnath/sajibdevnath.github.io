@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Sajib Devnath"
 ---
-
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 ### Hello
 ## This is Sajib Devnath
