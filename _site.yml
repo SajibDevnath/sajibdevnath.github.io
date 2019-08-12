@@ -5,6 +5,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
+      href: about.html
+    - text: "Visualisation"
       href: visualisation.html
 output:
   html_document:
