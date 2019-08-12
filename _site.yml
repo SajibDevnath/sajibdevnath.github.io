@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "Sajib Devnath"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: visualisation.html
+      
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
